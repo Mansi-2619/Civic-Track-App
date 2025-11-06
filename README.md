@@ -28,10 +28,9 @@ I was responsible for **UI/UX design** — including:
 ---
 
 ## 📸 UI/UX Preview
-
-![Screenshot_20251106_160356_Chrome](https://github.com/user-attachments/assets/19034314-cbd3-40a9-a82b-fa446320642b)
-![Screenshot_20251106_160344_Chrome](https://github.com/user-attachments/assets/4b9a6525-bbfa-4ccc-9775-98115d717c20)
+<img width="593" height="626" alt="image" src="https://github.com/user-attachments/assets/13f253a8-60dc-4b4c-9917-b60527bad991" />
 
 ---
 
 ## 📎 Links
+https://www.figma.com/proto/1Bzyl85MatwuX9ZfZdEOhU/Civic-Track-Mobile-UI?node-id=43-9&starting-point-node-id=69%3A345&t=bUBMUh3B7wPkx99d-1
