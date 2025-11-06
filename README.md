@@ -29,6 +29,8 @@ I was responsible for **UI/UX design** — including:
 
 ## 📸 UI/UX Preview
 
+![Screenshot_20251106_160356_Chrome](https://github.com/user-attachments/assets/19034314-cbd3-40a9-a82b-fa446320642b)
+![Screenshot_20251106_160344_Chrome](https://github.com/user-attachments/assets/4b9a6525-bbfa-4ccc-9775-98115d717c20)
 
 ---
 
